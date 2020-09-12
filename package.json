@@ -1,0 +1,15 @@
+{
+  "name": "pila-jison",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "jison": "cd js && jison grammar.jison -m js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "jison": "^0.4.18"
+  }
+}
