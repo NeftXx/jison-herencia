@@ -29,3 +29,5 @@ Y $-1, $0, \$1, es para acceder a una posicion a la pila. Por ejemplo algo como 
 
 En jison \$0 es la longitud de la pila, y al parecer jison calcula la longitud del arreglo y hace la correcta obtencion del valor de la produccion correspondiente. Y como observacion epsilon no se guarda en la pila.
 
+> Nota: Link para visualizar el ejemplo https://neftxx.github.io/jison-herencia/
+
